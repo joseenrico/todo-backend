@@ -186,9 +186,9 @@ Menggunakan simple header-based auth daripada JWT.
 ## Screenshots
 
 ### Dashboard
-![Tampilan Dashboard Aplikasi Todo](todo-backend/assets/screenshot-todo-list-1.jpg)
+![Tampilan Dashboard Aplikasi Todo](assets/screenshot-todo-list-1.jpg)
 
 ### Modal Detail dan Edit Todo
-![Modal untuk mengedit detail todo](todo-backend/assets/screenshot-todo-list-2.jpg)
+![Modal untuk mengedit detail todo](assets/screenshot-todo-list-2.jpg)
 
 2025 Jose Enrico
