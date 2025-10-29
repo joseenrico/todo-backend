@@ -183,4 +183,12 @@ Menggunakan simple header-based auth daripada JWT.
 - ✅ Multiple status: created, on_going, completed, problem
 - ✅ Problem description untuk status "problem"
 
+## Screenshots
+
+### Dashboard
+![Tampilan Dashboard Aplikasi Todo](todo-backend/assets/screenshot-todo-list-1.jpg)
+
+### Modal Detail dan Edit Todo
+![Modal untuk mengedit detail todo](todo-backend/assets/screenshot-todo-list-2.jpg)
+
 2025 Jose Enrico
